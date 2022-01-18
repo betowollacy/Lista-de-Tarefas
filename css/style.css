@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div.topo{
+    background-color: rgb(224, 172, 75);
+}
+
+div.container{
+    margin-top: 100px;
+    width: 500px;
+}
+div.titulo{
+    text-align: center;
+}
+
+.header-h1{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.header-h1 :hover{
+    color: tomato;
+}
+
+div.btn-adicionar{
+
+    text-align: center;
+    
+}
